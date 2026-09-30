@@ -1,14 +1,14 @@
-# CorePad Case
+#  Case
 
-A functional case for **CorePad**! A sleek 3D-printed case built for a macropad. This case is small yet sleek enough to go into a small bag or on a road trip!
+A functional case for **macropad project i made**! A sleek 3D-printed case built for a macropad. This case is small yet sleek enough to go into a small bag or on a road trip!
 
-Designed in **Fusion 360**, this case is built for the **CorePad GitHub project**.
+Designed in **Fusion 360**
 
 I built this case with the intention of making it sleek enough for my desk while still being able to blend in with all of my other random objects!
 
 ## Why I Made This
 
-I wanted to create a case for my CorePad that was:
+I wanted to create a case that was:
 
 - Small and portable
 - Sleek and simple
